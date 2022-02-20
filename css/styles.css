@@ -10,3 +10,21 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+#clickToFade {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#clickToFade:hover {
+  text-decoration: underline;
+}
+
+#clickToSlide {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#clickToSlide:hover {
+  text-decoration: underline;
+}
